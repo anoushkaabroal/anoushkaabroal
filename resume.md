@@ -5,10 +5,11 @@ Education:
 Constable Elementary School (2011-2017)
 Crossroads North Middle School (2017-2020)
 South Brunswick High School (2020-2024)
-Northeastern University (2024-Present)
+Northeastern University (2024-2028)
+Candidate for: Bachelor of Science in Computer Science 
 
 ABOUT ME
-Passionate and highly motivated high school student looking for an
+Passionate and highly motivated Northeastern student looking for an
 internship opportunity to learn and enhance my software development
 and programming skills. Experienced at working on individual projects as
 well as team based initiatives. Detailed oriented and diligent about
